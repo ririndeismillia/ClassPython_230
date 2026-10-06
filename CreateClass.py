@@ -15,3 +15,4 @@ class Rectangle:
 persegi_panjang = Rectangle(3, 2)
 
 # Memanggil semua fungsi
+print(persegi_panjang)
