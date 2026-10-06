@@ -12,3 +12,5 @@ class Rectangle:
     def __str__(self):
         return f"Rectangle, {self.panjang} cm panjang, dan {self.lebar} cm lebar"
 
+persegi_panjang = Rectangle(3, 2)
+
