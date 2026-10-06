@@ -16,3 +16,4 @@ persegi_panjang = Rectangle(3, 2)
 
 # Memanggil semua fungsi
 print(persegi_panjang)
+print("Keliling:", persegi_panjang.keliling(), "cm")
